@@ -44,10 +44,9 @@ Passionate about simplifying complexity, optimizing business processes, and deli
 
 ## Professional Focus
 
-```text
-ERP Transformation
-Financial Modernization
-Enterprise Digital Transformation
-Automation & Process Optimization
-Program Management
-Analytics & KPI Reporting
+- ERP Transformation
+- Financial Modernization
+- Enterprise Digital Transformation
+- Automation & Process Optimization
+- Program Management
+- Analytics & KPI Reporting
